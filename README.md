@@ -15,7 +15,7 @@
 
 <br/><br/>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://janani-portfolio-six.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-View%20Work-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111827" />
 </a>
 <a href="https://www.linkedin.com/in/jananikuppan/">
